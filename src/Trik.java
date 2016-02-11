@@ -41,5 +41,5 @@ public class Trik {
 		     	System.out.println("Ball Is 3");
 		 }
 	 }
-
+//xxxxx
  }
